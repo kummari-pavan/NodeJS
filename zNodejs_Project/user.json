@@ -1,0 +1,183 @@
+[
+    {
+      "id": 101,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "johndoe@example.com",
+      "phone": "+1-234-567-890",
+      "username": "johndoe123",
+      "date_of_birth": "1990-05-15",
+      "gender": "Male",
+      "address": {
+        "street": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zipcode": "10001",
+        "country": "USA"
+      },
+      "is_active": true
+    },
+    {
+      "id": 102,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "email": "janesmith@example.com",
+      "phone": "+1-555-567-1234",
+      "username": "janesmith456",
+      "date_of_birth": "1985-07-22",
+      "gender": "Female",
+      "address": {
+        "street": "456 Park Ave",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zipcode": "90001",
+        "country": "USA"
+      },
+      "is_active": true
+    },
+    {
+      "id": 103,
+      "first_name": "Mike",
+      "last_name": "Johnson",
+      "email": "mikej@example.com",
+      "phone": "+1-123-456-7890",
+      "username": "mikejohnson789",
+      "date_of_birth": "1995-03-10",
+      "gender": "Male",
+      "address": {
+        "street": "789 Elm St",
+        "city": "Chicago",
+        "state": "IL",
+        "zipcode": "60601",
+        "country": "USA"
+      },
+      "is_active": false
+    },
+    {
+      "id": 104,
+      "first_name": "Sara",
+      "last_name": "Williams",
+      "email": "saraw@example.com",
+      "phone": "+1-987-654-3210",
+      "username": "sarawilliams321",
+      "date_of_birth": "1992-11-30",
+      "gender": "Female",
+      "address": {
+        "street": "321 Oak St",
+        "city": "Houston",
+        "state": "TX",
+        "zipcode": "77001",
+        "country": "USA"
+      },
+      "is_active": true
+    },
+    {
+      "id": 105,
+      "first_name": "David",
+      "last_name": "Brown",
+      "email": "davidb@example.com",
+      "phone": "+1-345-678-9012",
+      "username": "davidbrown567",
+      "date_of_birth": "1988-01-17",
+      "gender": "Male",
+      "address": {
+        "street": "567 Pine St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zipcode": "85001",
+        "country": "USA"
+      },
+      "is_active": false
+    },
+    {
+      "id": 106,
+      "first_name": "Emily",
+      "last_name": "Davis",
+      "email": "emilyd@example.com",
+      "phone": "+1-111-222-3333",
+      "username": "emilydavis456",
+      "date_of_birth": "1994-05-25",
+      "gender": "Female",
+      "address": {
+        "street": "222 Maple St",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zipcode": "19101",
+        "country": "USA"
+      },
+      "is_active": true
+    },
+    {
+      "id": 107,
+      "first_name": "Chris",
+      "last_name": "Martinez",
+      "email": "chrism@example.com",
+      "phone": "+1-444-555-6666",
+      "username": "chrismartinez123",
+      "date_of_birth": "1980-09-12",
+      "gender": "Male",
+      "address": {
+        "street": "333 Cedar St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipcode": "94101",
+        "country": "USA"
+      },
+      "is_active": true
+    },
+    {
+      "id": 108,
+      "first_name": "Olivia",
+      "last_name": "Taylor",
+      "email": "oliviat@example.com",
+      "phone": "+1-777-888-9999",
+      "username": "oliviataylor567",
+      "date_of_birth": "1991-02-08",
+      "gender": "Female",
+      "address": {
+        "street": "444 Birch St",
+        "city": "Seattle",
+        "state": "WA",
+        "zipcode": "98101",
+        "country": "USA"
+      },
+      "is_active": true
+    },
+    {
+      "id": 109,
+      "first_name": "James",
+      "last_name": "Anderson",
+      "email": "jamesa@example.com",
+      "phone": "+1-333-444-5555",
+      "username": "jamesanderson789",
+      "date_of_birth": "1998-06-18",
+      "gender": "Male",
+      "address": {
+        "street": "555 Spruce St",
+        "city": "Miami",
+        "state": "FL",
+        "zipcode": "33101",
+        "country": "USA"
+      },
+      "is_active": false
+    },
+    {
+      "id": 110,
+      "first_name": "Sophia",
+      "last_name": "Moore",
+      "email": "sophiam@example.com",
+      "phone": "+1-888-999-0000",
+      "username": "sophiamoore123",
+      "date_of_birth": "1987-08-05",
+      "gender": "Female",
+      "address": {
+        "street": "666 Walnut St",
+        "city": "Dallas",
+        "state": "TX",
+        "zipcode": "75201",
+        "country": "USA"
+      },
+      "is_active": true
+    }
+  ]
+  
